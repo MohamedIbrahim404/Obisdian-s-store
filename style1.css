@@ -1,0 +1,128 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat",sans-serif;
+}
+.contact-section{
+  background: url(bg2.jpg) no-repeat center;
+  background-size: cover;
+  padding: 40px 0;
+}
+.left {
+  float: left;
+}
+
+.left ul {
+  list-style: none;
+   padding:1em 3em;
+}
+
+.left ul li {
+  display: inline-block;
+}
+
+.left ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  padding: 8px 16px;
+}
+.left li:nth-child(1) a {
+  border: 1px solid #fff
+}
+
+.right {
+  float: right;
+}
+
+.right ul {
+  list-style: none;
+  padding:1em 3em;
+}
+
+.right ul li {
+  display: inline-block;
+}
+
+.right ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  padding: 8px 16px;
+}
+.right li:nth-child(1) a {
+  border: 1px solid #fff
+}
+.right li:nth-child(2) a {
+  border: 1px solid #fff
+}
+
+
+.contact-section h1{
+  text-align: center;
+  color: #ddd;
+}
+.contact-section h2{
+  text-align: center;
+  color: #ddd;
+}
+.contact-section p{
+	text-align: left;
+	color: white;
+}
+
+.border{
+  width: 100px;
+  height: 10px;
+  background: #34495e;
+  margin: 40px auto;
+}
+.contact-section p{
+text-align: center;
+	color: white;	
+}
+
+.styledimg{
+	background-image: url(f.png);
+	background-repeat:no-repeat;
+	width:20px;
+	height:20px;
+}
+.styledimg{
+	background-image: url(i.png);
+	background-repeat:no-repeat;
+	background-position: right;
+	width:20px;
+	height:20px
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
